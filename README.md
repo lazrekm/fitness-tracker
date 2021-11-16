@@ -5,8 +5,9 @@
 A fitness app that allows the user to view, create, and track daily workouts. The user is able to log multiple exercises in a given day and also go back and update the workout.
 
 ## Deployed Application:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://fitness-tracker101.herokuapp.com/)
-  
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://fitness-tracker101.herokuapp.com/)
+ https://fitness-tracker101.herokuapp.com/
+
   ## Table of Contents 
   
   * [Installation](#installation)
