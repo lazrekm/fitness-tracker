@@ -2,7 +2,7 @@
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description:
-A fitness app that allows the user to view, create, and track daily workouts. The user is able to log multiple exercises in a given day and also go back and update the workout.
+A fitness app that allows the user to view, create, and track daily workouts.
 ### Users can: 
 * View the combined weight of multiple exercises from the past seven workouts.
 * Track the distance traveled if the exercise was cardio based.
