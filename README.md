@@ -3,7 +3,7 @@
 
   ## Description:
 A fitness app that allows the user to view, create, and track daily workouts.
-### Users can: 
+### User can: 
 * View the combined weight of multiple exercises from the past seven workouts.
 * Track the distance traveled if the exercise was cardio based.
 * View past workouts.
